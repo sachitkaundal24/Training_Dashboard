@@ -1,1 +1,1 @@
-# Training_Dashboard
+# Training-Dashboard
